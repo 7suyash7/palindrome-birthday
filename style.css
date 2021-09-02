@@ -1,0 +1,32 @@
+
+
+
+body {
+    background-color: purple;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.input {
+    width: 10rem;
+    height: 3rem;
+}
+
+label {
+    font-size: larger;
+    
+}
+
+.btn {
+   width: 10rem;
+   
+}
+
+.btn:hover {
+    background-color: hotpink;
+}
+
+.result {
+    font-size: larger;
+    
+}
